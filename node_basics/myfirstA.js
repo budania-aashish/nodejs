@@ -1,0 +1,1 @@
+console.log('This example is used to print on the command line')
