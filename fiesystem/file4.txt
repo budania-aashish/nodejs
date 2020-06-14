@@ -1,2 +1,0 @@
-Adding initial data
-If this data is written to file4.txt that means	content is appended
