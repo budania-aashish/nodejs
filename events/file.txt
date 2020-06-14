@@ -1,0 +1,2 @@
+Every action on a computer is an event. 
+Like when a connection is made of a file is opened.
