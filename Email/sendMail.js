@@ -15,7 +15,9 @@ var mailOptions = {
 	cc: 'cc_mail',
 	bcc: 'bcc_mail',
 	subject: 'sending mail using Node.js',
-	text : 'seninding mail from node js is easy, use nodemailer'
+	// text or html, any of these can be used 
+	// text : 'seninding mail from node js is easy, use nodemailer'
+	html: '<h1>Welcome</h1><p>That was easy!</p>'
 };
 
 
