@@ -11,7 +11,7 @@ var transporter = nodemailer.createTransport({
 
 var mailOptions = {
 	from: 'your_mail', 
-	to: 'to_mail', 
+	to: 'to_mail_1, to_mail2', 
 	cc: 'cc_mail',
 	bcc: 'bcc_mail',
 	subject: 'sending mail using Node.js',
